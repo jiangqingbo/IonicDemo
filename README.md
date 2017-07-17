@@ -14,9 +14,8 @@
     > npm config set prefix "D:\Program Files\nodejs\node_global"  
     > npm config set cache "D:\Program Files\nodejs\node_cache"
     
-    执行之后，使用命令npm config get prefix，查看设置
-    
-    > npm config set prefix
+    执行之后，使用命令npm config get prefix，查看设置
+    > npm config set prefix
 
 
 5、安装模块bower, 执行命令
@@ -46,16 +45,17 @@
 
 9、拉取demo项目, 进入D盘中ionicworkspace目录下
 
-    > ionic start myApp tabs
     
+    > ionic start myApp tabs
+
     等待项目拉取完成
-    
+
     > cd myApp
-    
+
     进入myApp项目，并启动服务
-    
+
     > ionic serve
-    
+
     出现以下情况，服务已经启动好了，接着在手机或pc端访问地址即可看到效果
     dev server running: http://localhost:8100/
 
