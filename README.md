@@ -47,8 +47,8 @@
 
     
     > ionic start myApp tabs
-
-    等待项目拉取完成
+    
+    等待项目拉取完成
 
     > cd myApp
 
@@ -57,6 +57,6 @@
     > ionic serve
 
     出现以下情况，服务已经启动好了，接着在手机或pc端访问地址即可看到效果
-    dev server running: http://localhost:8100/
+    dev server running: http://localhost:8100/
 
 10、按 Ctrl + c 关闭服务
